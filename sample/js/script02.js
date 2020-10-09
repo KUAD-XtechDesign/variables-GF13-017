@@ -14,10 +14,9 @@ $(function(){
   })
 
   //ここからjavascriptの話
-
-  let txt1 = "赤べこ";
-  let txt2 = "さらにここになにか文章がある。この文章はtxt2という変数で定義されている";
-  let txt3 = "さらにここになにか文章がある。この文章はtxt2という変数で定義されている";
+  let txt1 = "こんにちは";
+  let txt2 = "良い天気ですね";
+  let txt3 = "眠いですね";
   let num1 = 100;
   let num2 = 50;
 
